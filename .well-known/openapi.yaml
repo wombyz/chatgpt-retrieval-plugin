@@ -128,7 +128,7 @@ components:
         top_k:
           description: number of results to show
           type: integer
-          default: 5
+          default: 10
     QueryRequest:
       required:
         - queries
