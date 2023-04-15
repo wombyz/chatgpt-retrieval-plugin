@@ -10,7 +10,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://your-app-url.com/.well-known/openapi.yaml",
+    "url": "https://lobster-app-hfthe.ondigitalocean.app/.well-known/openapi.yaml",
     "has_user_authentication": false
   },
   "logo_url": "https://your-app-url.com/.well-known/logo.png",
